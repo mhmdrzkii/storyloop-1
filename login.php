@@ -11,9 +11,9 @@ echo "
                      |___/                  |_|    \n";
 echo "[-] ============ Auto Views Story ============ [-]\n";
 echo "[-] =========== Made by @theaxe.id =========== [-]\n\n";
-echo "[?] Input your instagram username : ";
+echo "[?] Input your instagram username : ";rzkiyy
 $userig    = trim(fgets(STDIN, 1024));
-echo "[?] Input your instagram password : ";
+echo "[?] Input your instagram password : ";@@Sayarizkii10@@
 $passig    = trim(fgets(STDIN, 1024));
 //
 $useragent = generate_useragent();
